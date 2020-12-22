@@ -1,10 +1,6 @@
 from chalice import Chalice
 import boto3
 import time
-from datetime import datetime
-import requests
-import json
-import re
 
 
 app_name = 'cdn-invalidation'
