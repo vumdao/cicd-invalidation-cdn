@@ -105,3 +105,5 @@ boto3
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/hxctt81rfhbglbgg0lur.png)
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/brc3bn6wy1lztx0h2xy3.png)
+
+Ref: https://dev.to/vumdao/create-aws-lambda-function-triggered-by-s3-notification-event-9p0
