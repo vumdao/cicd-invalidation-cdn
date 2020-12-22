@@ -1,0 +1,15 @@
+before_script:
+  - echo "Deploy CDN"
+
+deploy_cdn:
+  stage: deploy
+  timeout: 5m
+  script:
+    - aws s3 sync static/src s3://static-demo/src/
+  only:
+    refs:
+      - master
+    changes:
+      - static/src/**/*
+  tags:
+    - gitlab-runner

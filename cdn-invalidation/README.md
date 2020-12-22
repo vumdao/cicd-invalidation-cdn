@@ -1,4 +1,5 @@
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/vx40iqmjidsg4oglkygd.png)
+## Create AWS Lambda Function Triggered By S3 Notification Event
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/mas2ibsh4qgai9pi184w.png)
 
 - The Amazon S3 notification feature is able to receive notifications when certain events happen in your bucket.
 - To enable notifications, it must first adds a notification configuration that identifies the events that want Amazon S3 to publish and the destinations where to send the notifications here is lambda function
