@@ -180,6 +180,11 @@ boto3
 
 ![Alt-Text](https://github.com/vumdao/cicd-invalidation-cdn/blob/master/image/lambda_layer.png?raw=true)
 
+### 🚀 **[Conclusion](#-Conclusion)**
+- Create CI/CD of CDN Invalidateion will boost-up the deployment and clear edged location cache of your static files
+- The combine of S3 notification event and lambda function will secure your flow better than executing in gitlab runner or aws cli commands
+- Thank you for reading this blog, hope you learned some new thing.
+
 ---
 
 <h3 align="center">
