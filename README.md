@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dev.to/vumdao">
-    <img alt="CDK8S Example" src="https://github.com/vumdao/cicd-invalidation-cdn/blob/master/image/cover.jpg?raw=true" width="700" />
+    <img alt="CI/CD For CDN Invalidation Using AWS Lambda Function And Gitlab Pipeline" src="https://github.com/vumdao/cicd-invalidation-cdn/blob/master/image/cover.jpg?raw=true" width="700" />
   </a>
 </p>
 <h1 align="center">
